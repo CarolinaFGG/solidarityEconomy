@@ -1,0 +1,17 @@
+ano;item ;TOT_CHEFE;RENDI_MEIO;M_MEIOAUM;M_UMADOIS;MAISDE2A3;MAISDE3A5;MAIS5A10;MAIS10A15;MAIS15A20;MAISDE20;SEMRENDIM
+1991;conjunto palmeiras;3176;751;953;926;279;93;41;5;3;1;105
+1991;fortaleza ;385789;44894;91247;88855;41177;35395;37544;14336;6528;10815;13935
+2000;conjunto palmeiras;;;;;;;;;;;
+2000;fortaleza ;;;;;;;;;;;
+2010;conjunto palmeiras;;;;;;;;;;;
+2010;fortaleza ;;;;;;;;;;;
+;;;;;;;;;;;;
+ano;item;RENDI_MEIO;M_MEIOAUM;M_UMADOIS;MAISDE2A3;MAISDE3A5;MAIS5A10;MAIS10A15;MAIS15A20;MAISDE20;SEMRENDIM;
+1991;conjunto palmeiras;0,236460957;0,300062972;0,291561713;0,087846348;0,029282116;0,01290932;0,001574307;0,000944584;0,000314861;0,033060453;
+1991;fortaleza ;0,116369311;0,236520481;0,230320201;0,10673451;0,091747043;0,097317446;0,037160209;0,016921167;0,028033459;0,036120781;
+2000;conjunto palmeiras;;;;;;;;;;;
+2000;fortaleza ;;;;;;;;;;;
+2010;conjunto palmeiras;;;;;;;;;;;
+2010;fortaleza ;;;;;;;;;;;
+;;;;;;;;;;;;
+Descrição: tabela 1 - dados brutos de cada ano/ tabela 2 - dados da tabela 1 dividido pelo número total de chefes de família ;;;;;;;;;;;;
